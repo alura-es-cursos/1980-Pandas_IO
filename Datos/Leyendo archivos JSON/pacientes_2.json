@@ -1,0 +1,63 @@
+{
+  "Investigación": "Indicadores clave de enfermedades cardíacas",
+  "Año": 2020,
+  "Pacientes": [
+    {
+      "ID": "01",
+      "Rango_edad": "55-59",
+      "Sexo_biologico": "Mujer",
+      "Raza": "Blanca",
+      "IMC": 16.6,
+      "Fumador": "Sí",
+      "Consumo_alcohol": "No",
+      "Salud_física": 3,
+      "Salud_mental": 30,
+      "Dificultad_caminar": "No",
+      "Actividad_física": "Sí",
+      "Salud_general": "Muy buena",
+      "Horas_sueño": 5,
+      "Problemas_salud": [
+        "Diabetes",
+        "Asma",
+        "Cancer_piel"
+      ]
+    },
+    {
+      "ID": "02",
+      "Rango_edad": "80 ó +",
+      "Sexo_biologico": "Mujer",
+      "Raza": "Blanca",
+      "IMC": 20.34,
+      "Fumador": "No",
+      "Consumo_alcohol": "No",
+      "Salud_física": 0,
+      "Salud_mental": 0,
+      "Dificultad_caminar": "No",
+      "Actividad_física": "Sí",
+      "Salud_general": "Muy buena",
+      "Horas_sueño": 7,
+      "Problemas_salud": [
+        "AVC"
+      ]
+    },
+    {
+      "ID": "03",
+      "Rango_edad": "65-69",
+      "Sexo_biologico": "Masculino",
+      "Raza": "Blanca",
+      "IMC": 26.58,
+      "Fumador": "Sí",
+      "Consumo_alcohol": "No",
+      "Salud_física": 20,
+      "Salud_mental": 30,
+      "Dificultad_caminar": "No",
+      "Actividad_física": "Sí",
+      "Salud_general": "Muy buena",
+      "Horas_sueño": 8,
+      "Problemas_salud": [
+        "Diabetes",
+        "Asma"
+      ]
+    }
+  ]
+}
